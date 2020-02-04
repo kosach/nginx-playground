@@ -1,5 +1,3 @@
-
-
 #!/bin/bash
 
 NETWORK_NAME="test-microservices-network"
